@@ -93,8 +93,8 @@ WP_STATUS=0
 # OS Variables
 OS_SYS=
 OS_INDEX=
-RELEASE=("Debian" "Ubuntu" "CentOS" "CentOS" "Alpine" "Arch")
-RELEASE_REGEX=("debian" "ubuntu" "centos|red hat|kernel|oracle linux|alma|rocky" "amazon linux" "alpine" "arch linux")
+RELEASE=("Debian" "Ubuntu" "CentOS" "CentOS" "Alpine" "Arch" "Armbian)
+RELEASE_REGEX=("debian" "armbian" "ubuntu" "centos|red hat|kernel|oracle linux|alma|rocky" "amazon linux" "alpine" "arch linux")
 PKG_UPDATE=("apt -y update" "apt -y update" "yum -y update" "yum -y update" "apk update -f" "pacman -Sy")
 PKG_INSTALL=("apt -y --fix-broken install" "apt -y --fix-broken install" "yum -y install" "yum -y install" "apk add -f --no-cache" "pacman -S --noconfirm")
 
