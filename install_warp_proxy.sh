@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-AUTHOR="[hamid-gh98](https://github.com/vuong2023)"
+AUTHOR="[Vuong2023](https://github.com/vuong2023)"
 VERSION="1.2.0"
 
 
