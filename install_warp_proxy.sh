@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-AUTHOR="[hamid-gh98](https://github.com/hamid-gh98)"
+AUTHOR="[hamid-gh98](https://github.com/vuong2023)"
 VERSION="1.2.0"
 
 
@@ -16,7 +16,7 @@ VERSION="1.2.0"
 #   This script installs Warp Socks5 Proxy (WireProxy) for your system.
 #   WireProxy is a secure and fast proxy service that routes your network traffic through Cloudflare's global network.
 # 
-# Author: [hamid-gh98](https://github.com/hamid-gh98)
+# Author: [hamid-gh98](https://github.com/vuong2023)
 # 
 # Usage: bash ./install-warp-proxy.sh [-y] [-f]
 # 
